@@ -68,7 +68,7 @@
       "displayName": "Git Repo URL",
       "description": "The URL to the schema spy implementation.",
       "required": true,
-      "value": "https://github.com/bcgov/SchemaSpy.git"
+      "value": "https://github.com/liberation-team/SchemaSpy.git"
 
     },
     {

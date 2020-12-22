@@ -212,7 +212,7 @@ build-schema-spy() {
   #
   echo -e "\nBuilding schema-spy image ..."
   docker build \
-    https://github.com/bcgov/SchemaSpy.git \
+    https://github.com/liberation-team/SchemaSpy.git \
     -t 'schema-spy'
 }
 
